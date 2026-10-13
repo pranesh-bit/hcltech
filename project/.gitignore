@@ -1,0 +1,20 @@
+# Maven Build Target
+target/
+*.class
+
+# IDE Configuration Files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS Metadata
+.DS_Store
+Thumbs.db
+
+# Log and Scratch Files
+*.log
+scratch/
+out/
